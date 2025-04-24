@@ -10,17 +10,24 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan and I am very fortunate to be advised by [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/). I have a broad interest in theoretical computer science, especially in graph algorithms and data structures. <br/>
 Prior to that, I was an undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. During the spring and summer of 2020, I also made a wonderful research visit at UMich, advised by [Seth Pettie](https://web.eecs.umich.edu/~pettie/). <br/>
-In the fall of 2023, I was a visiting student at the Simons Institute for the [Data Structures and Optimization for Fast Algorithms](https://simons.berkeley.edu/programs/data-structures-optimization-fast-algorithms) program.
+In the fall of 2023, I was a visiting student at the Simons Institute for the [Data Structures and Optimization for Fast Algorithms](https://simons.berkeley.edu/programs/data-structures-optimization-fast-algorithms) program. <br/>
+In the fall of 2024, I visited [INSAIT](https://insait.ai/) in Sofia, Bulgaria.
+
+Last updated: April 2025
 
 Publications
 ======
-Connectivity Labeling Schemes for Edge and Vertex Faults via Expander Hierarchies <br/>
+Length-Constrained Directed Expander Decomposition and Length-Constrained Vertex-Capacitated Flow Shortcuts [[arxiv](https://arxiv.org/abs/2503.23217)] <br/>
+[Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), Yaowei Long, [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and Shengzhe Wang <br/>
+In submission
+
+Connectivity Labeling Schemes for Edge and Vertex Faults via Expander Hierarchies [[arxiv](https://arxiv.org/abs/2410.18885)] <br/>
 Yaowei Long, [Seth Pettie](https://web.eecs.umich.edu/~pettie/) and [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) <br/>
-Submitted to SODA 2025
+SODA 2025
 
 Unbreakable Decomposition in Close-to-Linear Time [[arxiv](https://arxiv.org/abs/2408.09368)] <br/>
 [Aditya Anand](https://sites.google.com/view/aditya-anand17), [Euiwoong Lee](https://web.eecs.umich.edu/~euiwoong/), [Jason Li](https://q3r.github.io/), Yaowei Long and [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) <br/>
-Submitted to SODA 2025
+SODA 2025
 
 Dynamic Deterministic Constant-Approximate Distance Oracles with $n^{\epsilon}$ Worst-Case Update Time [[arxiv](https://arxiv.org/abs/2402.18541)] <br/>
 [Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), Yaowei Long and [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) <br/>
@@ -45,6 +52,12 @@ FOCS 2022
 Planar Distance Oracles with Better Time-Space Tradeoffs [[arxiv](https://arxiv.org/abs/2007.08585)] <br/>
 Yaowei Long and [Seth Pettie](https://web.eecs.umich.edu/~pettie/) <br/>
 SODA 2021
+
+Services
+======
+Conference external referee for SODA2023, WADS2023, ESA2023, SODA2024, ITCS2024, STOC 2024, FOCS 2024, ESA 2024, SODA 2025, SOSA 2025, ICALP 2025
+
+Journal external referee for ACM TALG, Algorithmica, SIAM Journal on Computing
 
 Teaching
 ======
