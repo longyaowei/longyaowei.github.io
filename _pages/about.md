@@ -17,8 +17,7 @@ In the summer of 2025, I am a research intern at Microsoft Research in Redmond, 
 
 Last updated: July 2025
 
-Publications
-======
+# Publications
 Unless stated otherwise, author names are in **alphabetical order**. 
 
 ## Conference Papers
@@ -66,14 +65,12 @@ Almost Optimal Exact Distance Oracles for Planar Graphs [[doi](https://dl.acm.or
 J. ACM <br/>
 Journal version of extended abstracts presented at SODA'18 [[GMWW18](https://epubs.siam.org/doi/10.1137/1.9781611975031.34)], STOC'19 [[CGMW19](https://arxiv.org/abs/1811.01551)] and SODA'21 [[LP21](https://arxiv.org/abs/2007.08585)]
 
-Services
-======
+# Services
 Conference external referee for SODA2023, WADS2023, ESA2023, SODA2024, ITCS2024, STOC 2024, FOCS 2024, ESA 2024, SODA 2025, SOSA 2025, ICALP 2025, FOCS 2025
 
 Journal external referee for ACM TALG, Algorithmica, SIAM Journal on Computing
 
-Teaching
-======
+# Teaching
 Graduate Student Instructor (TA) to Prof. Thatchaphol Saranurak <br/>
 Design and Analysis of Algorithms. (EECS 586) <br/>
 2023 Winter
