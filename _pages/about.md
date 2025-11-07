@@ -8,27 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, and I am very fortunate to be advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/). Prior to that, I was an undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. During the spring and summer of 2020, I also made a wonderful research visit at UMich, advised by [Prof. Seth Pettie](https://web.eecs.umich.edu/~pettie/). <br/>
+I am currently a fifth-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, and I am very fortunate to be advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/). Prior to that, I was an undergraduate student at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. During the spring and summer of 2020, I also made a wonderful research visit at UMich, advised by [Prof. Seth Pettie](https://web.eecs.umich.edu/~pettie/). <br/>
 I have broad interests in theoretical computer science, particularly in graph algorithms and data structures. My research focuses on designing fast algorithms for connectivity, distance, and flow problems across various (dynamic) models using graph decomposition techniques. <br/>
 
 In the fall of 2023, I was a visiting student at the Simons Institute for the [Data Structures and Optimization for Fast Algorithms](https://simons.berkeley.edu/programs/data-structures-optimization-fast-algorithms) program. <br/>
 In the fall of 2024, I visited [INSAIT](https://insait.ai/) in Sofia, Bulgaria. <br/>
 In the summer of 2025, I am a research intern at Microsoft Research in Redmond, mentored by [Sepideh Mahabadi](https://www.mit.edu/~mahabadi/) and [Jakub Tarnawski](https://jakub.tarnawski.org/).
 
-Last updated: July 2025
+### __I am currently looking for a postdoc position.__
+
+Last updated: Nov 2025
 
 # Publications
 Unless stated otherwise, author names are in **alphabetical order**. 
 
 ## Conference Papers
 
-Parallel $(1+\epsilon)$-Approximate Multi-Commodity Mincost Flow in Almost Optimal Depth and Work [arXiv soon] <br/>
+Parallel $(1+\epsilon)$-Approximate Multi-Commodity Mincost Flow in Almost Optimal Depth and Work [[arXiv](https://arxiv.org/abs/2510.20456)] <br/>
 [Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), [Yonggang Jiang](https://yonggangjiang.github.io/), Yaowei Long, [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and [Shengzhe Wang](https://www.linkedin.com/in/shengzhe-wang-8aa136227/) <br/>
 To appear in FOCS 2025
 
 Length-Constrained Directed Expander Decomposition and Length-Constrained Vertex-Capacitated Flow Shortcuts [[arxiv](https://arxiv.org/abs/2503.23217)] <br/>
 [Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), Yaowei Long, [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and [Shengzhe Wang](https://www.linkedin.com/in/shengzhe-wang-8aa136227/) <br/>
-To appear in ESA 2025
+ESA 2025
 
 Connectivity Labeling Schemes for Edge and Vertex Faults via Expander Hierarchies [[arxiv](https://arxiv.org/abs/2410.18885)] <br/>
 Yaowei Long, [Seth Pettie](https://web.eecs.umich.edu/~pettie/) and [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) <br/>
