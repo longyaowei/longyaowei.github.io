@@ -73,6 +73,10 @@ Conference external referee for SODA2023, WADS2023, ESA2023, SODA2024, ITCS2024,
 Journal external referee for ACM TALG, Algorithmica, SIAM Journal on Computing
 
 # Teaching
+Graduate Student Instructor <br/>
+Data Structures and Algorithms. (EECS 281) <br/>
+2025 Fall
+
 Graduate Student Instructor (TA) to Prof. Thatchaphol Saranurak <br/>
 Design and Analysis of Algorithms. (EECS 586) <br/>
 2023 Winter
