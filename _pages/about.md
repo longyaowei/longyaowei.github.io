@@ -15,18 +15,33 @@ In the fall of 2023, I was a visiting student at the Simons Institute for the [D
 In the fall of 2024, I visited [INSAIT](https://insait.ai/) in Sofia, Bulgaria. <br/>
 In the summer of 2025, I am a research intern at Microsoft Research in Redmond, mentored by [Sepideh Mahabadi](https://www.mit.edu/~mahabadi/) and [Jakub Tarnawski](https://jakub.tarnawski.org/).
 
-### __I am currently looking for a postdoc position.__
-
-Last updated: Nov 2025
+Last updated: July 2026
 
 # Publications
 Unless stated otherwise, author names are in **alphabetical order**. 
 
 ## Conference Papers
 
+Vertex-Failure Distance Oracles and Labeling Schemes: Compact and Constant-Approximat [arXiv soon] <br/>
+Yaowei Long <br/>
+To appear in FOCS 2026
+
+
+Online Steiner Forest with Recourse [[arxiv]([https:](https://arxiv.org/abs/2605.09821))] <br/>
+Yaowei Long, [Sepideh Mahabadi](https://www.mit.edu/~mahabadi/), [Sherry Sarkar](https://sherrysarkar.github.io/) and [Jakub Tarnawski](https://jakub.tarnawski.org/) <br/>
+ICALP 2026
+
+Connectivity Oracle Under Vertex Failures by Shortcutting Unbreakable Decomposition [[arXiv](https://arxiv.org/abs/2605.07168)] <br/>
+Xizhe Li, Yaowei Long, David Pidugu, [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and [Benyu Wang](https://wbyyui.github.io/) <br/>
+ICALP 2026
+
+A Constant-Approximation Distance Labeling Scheme under Polynomially Many Edge Failures [[arXiv](https://arxiv.org/abs/2604.01829)] <br/>
+[Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), Yaowei Long, [Antti Roeyskoe](https://people.inf.ethz.ch/aroeyskoe/) and [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) <br/>
+STOC 2026
+
 Parallel $(1+\epsilon)$-Approximate Multi-Commodity Mincost Flow in Almost Optimal Depth and Work [[arXiv](https://arxiv.org/abs/2510.20456)] <br/>
 [Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), [Yonggang Jiang](https://yonggangjiang.github.io/), Yaowei Long, [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and [Shengzhe Wang](https://www.linkedin.com/in/shengzhe-wang-8aa136227/) <br/>
-To appear in FOCS 2025
+FOCS 2025
 
 Length-Constrained Directed Expander Decomposition and Length-Constrained Vertex-Capacitated Flow Shortcuts [[arxiv](https://arxiv.org/abs/2503.23217)] <br/>
 [Bernhard Haeupler](https://people.inf.ethz.ch/haeuplb/), Yaowei Long, [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/) and [Shengzhe Wang](https://www.linkedin.com/in/shengzhe-wang-8aa136227/) <br/>
