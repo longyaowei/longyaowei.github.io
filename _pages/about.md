@@ -22,7 +22,7 @@ Unless stated otherwise, author names are in **alphabetical order**.
 
 ## Conference Papers
 
-Vertex-Failure Distance Oracles and Labeling Schemes: Compact and Constant-Approximat [arXiv soon] <br/>
+Vertex-Failure Distance Oracles and Labeling Schemes: Compact and Constant-Approximate [arXiv soon] <br/>
 Yaowei Long <br/>
 To appear in FOCS 2026
 
