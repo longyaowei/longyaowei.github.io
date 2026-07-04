@@ -27,7 +27,7 @@ Yaowei Long <br/>
 To appear in FOCS 2026
 
 
-Online Steiner Forest with Recourse [[arxiv]([https:](https://arxiv.org/abs/2605.09821))] <br/>
+Online Steiner Forest with Recourse [[arxiv](https://arxiv.org/abs/2605.09821)] <br/>
 Yaowei Long, [Sepideh Mahabadi](https://www.mit.edu/~mahabadi/), [Sherry Sarkar](https://sherrysarkar.github.io/) and [Jakub Tarnawski](https://jakub.tarnawski.org/) <br/>
 ICALP 2026
 
